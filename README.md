@@ -3,11 +3,11 @@ Informações e descrições de todo o projeto integrador com a ONSV
 
 |    Função     | Nome                                  |
 | :-----------: | :------------------------------------ | 
-| Product Owner |   Kauã  Diego de Sousa Manoel         | 
-| Scrum Master |   Lucas Daniel da Silva Faria         | 
-| Team Member |   Daniel Júnior Soares de Oliveira     | 
-| Team Member |   Julio Eduardo Bustamante Mancisidor  |       
-| Team Member |   Fabiano Almeida Cardoso de Souza       | 
+| Scrum Master  |   Lucas Daniel da Silva Faria         | 
+| Product Owner |  Kauã Diego de sousa Manoel           | 
+| Team Member   |   Daniel Júnior Soares de Oliveira    | 
+| Team Member   |   Julio Eduardo Bustamante Mancisidor |       
+| Team Member   |   Fabiano Almeida Cardoso de Souza    | 
 
 ## Objetivos do projeto 
 - 
