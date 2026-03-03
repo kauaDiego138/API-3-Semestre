@@ -10,7 +10,8 @@ Informações e descrições de todo o projeto integrador com a ONSV
 | Team Member   |   Fabiano Almeida Cardoso de Souza    | 
 
 ## Objetivos do projeto 
-- 
+- O obejtivo do grupo é a criação de um sistema capaz de ajudar a Instituição ONSV na monitoria e redução de acidentes pelo territorio brasileiro
+
 ## Sprint 1
 - [ ]
 - [ ] 
