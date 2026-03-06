@@ -12,7 +12,7 @@ MVP - [LOGISAFE]
 ---
 
 ##  Personas / Usuários-Alvo
--  Analistas
+-  Analista
 
 Descrição: Profissionais responsáveis por interpretar os dados do transporte de cargas perigosas.
 Necessidades: Ter acesso rápido a indicadores confiáveis, relatórios históricos e análises comparativas.
