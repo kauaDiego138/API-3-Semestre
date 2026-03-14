@@ -1,51 +1,75 @@
 # API-3-Semestre
-Informações e descrições de todo o projeto integrador com a ONSV
 
-|    Função     | Nome                                  |
-| :-----------: | :------------------------------------ | 
-| Scrum Master  |   Lucas Daniel da Silva Faria         | 
-| Product Owner |  Kauã Diego de sousa Manoel           | 
-| Team Member   |   Daniel Júnior Soares de Oliveira    | 
-| Team Member   |   Julio Eduardo Bustamante Mancisidor |       
-| Team Member   |   Fabiano Almeida Cardoso de Souza    | 
+# Aprendizado por Projeto Integrado (API) - Template
 
-## Objetivos do projeto 
-- O obejtivo do grupo é a criação de um sistema capaz de ajudar a Instituição ONSV na monitoria e planejamento para a redução de acidentes pelo territorio brasileiro.
+Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
-## Sprint 1
-- [ ]
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-## Sprint 2
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-      
-## Sprint 3
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]
-- [ ] 
-- [ ] 
+# Índice
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Equipe](#Equipe)
+* [Backlog do produto](#Product-Backlog)
+* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Registro das Sprints](#Registro-das-Sprints)
 
 
+# Projeto (API) 
+Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
+Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
+Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+
+# Equipe
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner |   Kauã Diego de Sousa Manoel   |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
+| Scrum Master  | Lucas Daniel|      [ [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
+| Team Member   | Daniel             |         (https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
+|  Team Member  | Fabiano                |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
+|  Team Member  | Julio                 |    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
+
+
+# Objetivo do Projeto
+Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+* Centralizar os trabalhos e projetos;
+* Organizar e estruturar as informações;
+* Versionar e controlar as alterações;
+* Facilitar o compartilhamento e feedback;
+* Desenvolver habilidades técnicas.
+
+
+## Tecnologias Utilizadas
+
+* Jira Software
+* Power BI
+* Microsoft Excel
+* Slack
+* Python (Colab)
+* Mysql
+
+
+
+# Product Backlog
+
+| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
+| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
+| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
+| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+
+
+
+
+
+  
 # Registro das Sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|01 |  06/04/2026 | Produzindo |https://github.com/kauaDiego138/API-3-Semestre/blob/d3c6703a716c3b7bf72910fef4e2aba6e47fe296/mvp%201.md | 
-|02|  12/05/2026 | A começar | | 
-|03| 26/05/2026 | A começar| | 
- 
+| Sprint            | Previsão   | Status   | Histórico |
+|-------------------|------------|----------|-----------|
+| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
+| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)
 
