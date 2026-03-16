@@ -68,6 +68,6 @@ A equipe tem um tempo de resposta de 1 dia para conseguir ajeitar tudo que o cli
 
 ##  Anexos / Evidências
    
-- Slides para apresentação da Sprint-1:
+- Link do canal no Youtube do grupo LOGISAFE:(https://youtu.be/Ecxzr8GUC8M?feature=shared)
 
 
