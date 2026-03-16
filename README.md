@@ -1,12 +1,13 @@
-# API-3-Semestre
-
-# Grupo - LOGISAFE
+# API-3-Semestre (Grupo - LOGISAFE)
 
 # Aprendizado por Projeto Integrado (API) - Template
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+
+# Cliente
+CADI / ONSV
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -26,11 +27,11 @@ O projeto tem como objetivo a criação de um sistema utilizando diferentes font
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Kauã Diego de Sousa Manoel   |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
-| Scrum Master  | Lucas Daniel da Silva Faria|      [ [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
-| Team Member   | Daniel Junior Soares de Oliveira           |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
-|  Team Member  | Fabiano Almeida Cardoso de Sousa               |          [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
-|  Team Member  | Julio                 |    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
+|  Product Owner|   Kauã Diego de Sousa Manoel | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KauaDiego138)  |
+|  Scrum Master | Lucas Daniel da Silva Faria  | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasDaniel7777)    |
+|  Team Member  | Daniel Junior Soares de Oliveira |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasDaniel7777) |
+|  Team Member  | Fabiano Almeida Cardoso de Sousa | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Fabiano1301)|
+|  Team Member  | Julio Eduardo Bustamante Mancisidor| [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mancisidor2024)|
 
 
 # Objetivo do Projeto
@@ -66,7 +67,7 @@ O projeto objetiva implementar uma solução de Business Intelligence para a an�
 
 |      Sprint       |  Previsão  |  Status  | Histórico |
 |-------------------|------------|----------|-----------|
-|        01         | 14/04/2026 | a fazer  | [MVP](MVP/sp1.md)  |
+|        01         | 14/04/2026 | a fazer  | [MVP](https://github.com/kauaDiego138/API-3-Semestre/blob/5011fe7fabcb93201247f734a9057cae221a8816/mvp%201.md)  |
 |        02         | 12/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 |        03         | 02/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)
