@@ -1,21 +1,21 @@
 MVP - [LOGISAFE]
 
 ##  Objetivo do MVP
--  O objetivo do MVP é disponibilizar um dashboard inicial que permita
+-  O objetivo do MVP é disponibilizar um dashboard inicial que permita análises comparativas entre estados e indicadores de risco em todo o território nacional usando códigos de diferentes fontes para que o produto seja completo e de informações detalhadas.
 
 ---
 
 ##  Descrição da Solução
-- Na Sprint 1, será entregue a base inicial do dashboard, com foco em funcionalidades de análse e visualização de informações essências.
+- Na Sprint 1, será entregue os códigos análisados e lapidados e uma previsão do dashbord, esperamos que todos os dados adquiridos estejam limpos para que o cliente possa utilizar da melhor forma.
 - planos para as proximas sprints.
 
 ---
 
 ##  Personas / Usuários-Alvo
--  Analista
+-  Análista
 
-Descrição: Profissionais responsáveis por interpretar os dados do transporte de cargas perigosas.
-Necessidades: Ter acesso rápido a indicadores confiáveis, relatórios históricos e análises comparativas.
+Descrição: Profissionais responsáveis por interpretar os dados de acidentes por veiculos pesados em todo territorio brasileiro.
+Necessidades: códigos limpos e análisados de forma meticulosa, criação de um esboço do dashbord.
 Dores Atendidas: Dificuldade em consolidar informações dispersas, analisar grandes volumes de dados e identificar pontos de risco com clareza.
 
 Organizadores Logísticos
