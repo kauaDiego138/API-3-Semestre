@@ -1,13 +1,16 @@
 # MVP - [logisafe]
 
 # Objetivo do MVP
-Descrever de forma clara qual é o propósito do MVP:
-Qual problema se resolve?
-Quais hipóteses serão validadas?
-Qual valor será entregue ao usuário final?
+- Descrever de forma clara qual é o propósito do MVP:
+- Qual problema se resolve?
+- Quais hipóteses serão validadas?
+- Qual valor será entregue ao usuário final?
+
+----
 
 # Descrição da Solução
-Breve explicação do que será desenvolvido e entregue nesta etapa.
+ Breve explicação do que será desenvolvido e entregue nesta etapa.
+
 
 # Funcionalidades principais incluídas
 Limitações conhecidas
@@ -16,6 +19,11 @@ Escopo reduzido (algo essencial para validar a ideia)
 # Personas / Usuários-Alvo
 Pessoa 1: breve descrição, necessidades e problemas atendidos
 Persona 2: breve descrição, necessidades e problemas atendidos
+
+ 
+--------
+
+
 
 # Histórias de Usuário (Backlog para MVP)
 EU IA	História do usuário	Prioridade	Estimativa
