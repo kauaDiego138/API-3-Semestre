@@ -76,6 +76,6 @@ https://LogSafe.base44.app
 |-------------------|------------|----------|-----------|
 |        01         | 14/04/2026 | a fazer  | [MVP](https://github.com/kauaDiego138/API-3-Semestre/blob/5011fe7fabcb93201247f734a9057cae221a8816/mvp%201.md)  |
 |        02         | 12/05/2026 | a fazer  | [MVP](https://github.com/kauaDiego138/API-3-Semestre/blob/377de1c967c349ac2fdbe10bd4bedbe00eb9edb8/MVPS/mvp%202.md)  |
-|        03         | 02/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)
+|        03         | 02/06/2026 | a fazer  | [MVP]([MVP/sp3.md](https://github.com/kauaDiego138/API-3-Semestre/blob/831ad93b6dca86770d0d1a86e07d03c13d5ce1a6/MVPS/mvp%203.md))  |
+| Feira de Soluções | 18/06/2026 | a fazer  | |
 
