@@ -1,20 +1,20 @@
-MVP - [LOGISAFE]
+# MVP - [LOGISAFE]
 
 ##  Objetivo do MVP
--  O objetivo do MVP é disponibilizar um dashboard inicial que permita análises comparativas entre estados e indicadores de risco em todo o território nacional usando códigos de diferentes fontes para que o produto seja completo e de informações detalhadas.
+>  O objetivo do MVP é disponibilizar um dashboard inicial que permita análises comparativas entre estados e indicadores de risco em todo o território nacional usando códigos de diferentes fontes para que o produto seja completo e de informações detalhadas.
 
----
+<br>
 
 ##  Descrição da Solução
 - Na Sprint 1, será entregue os códigos análisados e lapidados e uma previsão do dashbord, esperamos que todos os dados adquiridos estejam limpos para que o cliente possa utilizar da melhor forma.
 - planos para as proximas sprints.
 
----
+<br>
 
 ##  Personas / Usuários-Alvo
 -  Análista
 
-Descrição: Profissionais responsáveis por interpretar os dados de acidentes por veiculos pesados em todo territorio brasileiro.
+> Descrição: Profissionais responsáveis por interpretar os dados de acidentes por veiculos pesados em todo territorio brasileiro.
 Necessidades: códigos limpos e análisados de forma meticulosa, criação de um esboço do dashbord.
 Dores Atendidas: Dificuldade em consolidar informações dispersas, analisar grandes volumes de dados e identificar pontos de risco com clareza.
 
@@ -32,15 +32,14 @@ Descrição:
 | S4 |  |  |  | 
 | S5 |  |  |  |
 
----
+<br>
 
 ##  Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Coleta e análise dos dados e criação do prototipo]                        | Em andamento 
-| 02     | [  ]                           | 
-|
-
+| 01     | Coleta e análise dos dados adquiridos e esboços do prototipo| Em andamento |
+| 02     | Criação do prototipo e criação do relatorio do projeto | Agendado |
+| 03     |                                          |      |
 ---
 
 ##  Critérios de Aceitação
@@ -50,24 +49,24 @@ Taxa de uso do sistema: acompanhamento da frequência de acessos e interações.
 
 Produção funcional: o sistema deve entregar a função solicitada pelo cliente dentro do mesmo período de trabalho.
 
----
+<br>
 
 ##  Métricas de Validação
-- Todos os membros da equipe aceitaram e aprovaram.
+- Todos os membros da equipe devem aceitar e aprovar o resultado final para cada sprint 
 
-A equipe tem um tempo de resposta de 1 dia para conseguir ajeitar tudo que o cliente pede, e produz o que sua função pede no mesmo tempo de trabalho.
+A equipe tem um tempo de resposta de 3 dia para conseguir ajeitar tudo que o cliente pede, e produzir o que sua função pede no mesmo tempo de trabalho.
 
----
+<br>
 
 ##  Próximos Passos
-- Após a analise e feedback do cliente sobre nosso planos esperamos ja começar a criação nonpower Bi 
-- Esperamos que o cliente no informe como ele ira nos dizer como ele prefere no design do sistema
-- Colocar novas ferramentas e informações caso o cliente ache que necessita  
+- Após a analise e feedback do cliente sobre nosso planos esperamos ja começar a criação dos do esboço para o power BI e caso necessario alterar os códigos.
+- Esperamos que o cliente no informe como ele prefere no design do sistema e se os códigos que utilizamos satisfaça suas necessidades
+- Colocar novas ferramentas e informações caso o cliente ache que estejam em falta
 
 ---
 
 ##  Anexos / Evidências
    
-- Link do canal no Youtube do grupo LOGISAFE:(https://youtu.be/Ecxzr8GUC8M?feature=shared)
+- Link do canal no Youtube do grupo LOGISAFE com videos dos códigos e power BI usados no projeto atual:(https://youtu.be/Ecxzr8GUC8M?feature=shared)
 
 
