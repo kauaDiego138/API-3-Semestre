@@ -1,30 +1,37 @@
 # API-3-Semestre (Grupo - LOGISAFE)
+<br>
 
-# Aprendizado por Projeto Integrado (API) - Template
+## Aprendizado por Projeto Integrado (API) - Template
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
+<br>
+
 # Cliente
 CADI / ONSV
 
-# Índice
+<br>
+
+## Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
 
+<br>
 
-# Projeto (API) 
+
+## Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
 
 O projeto tem como objetivo a criação de um sistema utilizando diferentes fontes de dados decorrente dos anos de 2015 há 2025, criando um  Business Intelligence para a análise da segurança viária em todos os estados do Brasil.
 
-# Equipe
+## Equipe
 |    Função     | Nome                                  |                                                                                                                                                       GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  Product Owner|   Kauã Diego de Sousa Manoel | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KauaDiego138)  |
@@ -34,7 +41,7 @@ O projeto tem como objetivo a criação de um sistema utilizando diferentes font
 |  Team Member  | Julio Eduardo Bustamante Mancisidor| [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mancisidor2024)|
 
 
-# Objetivo do Projeto
+## Objetivo do Projeto
 O projeto objetiva implementar uma solução de Business Intelligence para a análise da segurança viária no Brasil. Através de dashboards dinâmicos, a ferramenta mensura índices de eficiência e desempenho em cidades de grande porte (acima de 250 mil habitantes), permitindo a identificação de gargalos críticos e o suporte à tomada de decisão baseada em dados.
 
 ## Tecnologias Utilizadas
@@ -46,9 +53,9 @@ O projeto objetiva implementar uma solução de Business Intelligence para a an�
 * Python (Colab)
 * Mysql
 
+<br>
 
-
-# Product Backlog
+## Product Backlog
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
@@ -58,10 +65,13 @@ O projeto objetiva implementar uma solução de Business Intelligence para a an�
 | ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
 | 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
 
-# APP de tarefas do grupo LOGISAFE:
+<br>
+
+## APP de tarefas do grupo LOGISAFE:
 https://LogSafe.base44.app 
 
-# Registro das Sprints
+<br>
+## Registro das Sprints
 
 |      Sprint       |  Previsão  |  Status  | Histórico |
 |-------------------|------------|----------|-----------|
