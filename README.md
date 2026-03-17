@@ -7,9 +7,7 @@ Template para os projetos de API, ensinando na utilização do repositório digi
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
-<br>
-
-# Cliente
+## Cliente
 CADI / ONSV
 
 <br>
