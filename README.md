@@ -71,6 +71,7 @@ O projeto objetiva implementar uma solução de Business Intelligence para a an�
 https://LogSafe.base44.app 
 
 <br>
+
 ## Registro das Sprints
 
 |      Sprint       |  Previsão  |  Status  | Histórico |
