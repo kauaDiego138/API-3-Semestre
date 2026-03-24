@@ -26,11 +26,11 @@ Descrição:
 ##  User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| S1 |         |        |    |
-| S2 |         |      |    |
-| S3 | | |  |
-| S4 |  |  |  | 
-| S5 |  |  |  |
+| S1 | Como analista de dados, quero acessar bases públicas da PRF, DATASUS, DENATRAN e IBGE, para iniciar a integração das informações de segurança viária. | Alta |  3  |
+| S2 | Como analista, quero importar e visualizar os dados no Python/Google Colab, para entender a estrutura das bases | Alta | 5   |
+| S3 | Como analista, quero realizar a limpeza, padronização e validação dos dados, a fim de garantir consistência, confiabilidade e qualidade nas análises. | Alta | 6 |
+| S4 | Como analista, quero filtrar acidentes envolvendo veículos pesados, para focar a análise nesse tipo de sinistro | Alta | 7 | 
+| S5 | Como analista, quero organizar variáveis como estado, município, ano e tipo de veículo, para facilitar as análises posteriores | Alta  | 4 |
 
 <br>
 
