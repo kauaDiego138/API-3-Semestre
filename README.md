@@ -30,9 +30,9 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 O projeto tem como objetivo a criação de um sistema utilizando diferentes fontes de dados decorrente dos anos de 2015 há 2025, criando um  Business Intelligence para a análise da segurança viária em todos os estados do Brasil.
 
 ## Equipe
-|    Função     | Nome                                |  GitHub        |   Linkedin   |                                                                                                                                 
+|    Função     | Nome                                |  GitHub        |   Linkedln   |                                                                                                                                 
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------: |
-|  Product Owner|   Kauã Diego de Sousa Manoel | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KauaDiego138)  |
+|  Product Owner|   Kauã Diego de Sousa Manoel | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KauaDiego138)  | [![LinkedIn Badge](https://www.linkedin.com/in/kauã-diego-manoel-b7069a34b)
 |  Scrum Master | Lucas Daniel da Silva Faria  | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasDaniel7777)    |
 |  Team Member  | Daniel Junior Soares de Oliveira |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DanielJunior777) |
 |  Team Member  | Fabiano Almeida Cardoso de Sousa | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Fabiano1301)|
