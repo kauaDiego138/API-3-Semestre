@@ -91,6 +91,3 @@ https://LogSafe.base44.app
 |        03         | 02/06/2026 | a fazer  | [MVP]([MVP/sp3.md](https://github.com/kauaDiego138/API-3-Semestre/blob/831ad93b6dca86770d0d1a86e07d03c13d5ce1a6/MVPS/mvp%203.md))  |
 | Feira de Soluções | 18/06/2026 | a fazer  | |
 
-<br>
-
-Canal da equipe : [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
