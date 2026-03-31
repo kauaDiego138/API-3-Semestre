@@ -33,10 +33,10 @@ O projeto tem como objetivo a criação de um sistema utilizando diferentes font
 |    Função     | Nome                                |  GitHub        |   Linkedln   |                                                                                                                                 
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------: |
 |  Product Owner|   Kauã Diego de Sousa Manoel | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KauaDiego138)  | [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-diego-manoel-b7069a34b)
-|  Scrum Master | Lucas Daniel da Silva Faria  | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasDaniel7777)    |
-|  Team Member  | Daniel Junior Soares de Oliveira |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DanielJunior777) |
-|  Team Member  | Fabiano Almeida Cardoso de Souza | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Fabiano1301)|
-|  Team Member  | Julio Eduardo Bustamante Mancisidor| [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mancisidor2024)|
+|  Scrum Master | Lucas Daniel da Silva Faria  | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasDaniel7777)    |  [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-daniel-0349b83bb)
+|  Team Member  | Daniel Junior Soares de Oliveira |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DanielJunior777) | [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-junior-9b49a3304/)
+|  Team Member  | Fabiano Almeida Cardoso de Souza | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Fabiano1301)| [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-almeida-854646386/)
+|  Team Member  | Julio Eduardo Bustamante Mancisidor| [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mancisidor2024)| [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/julio-eduardo-bustamante-mancisidor-753576387)
 
 
 ## Objetivo do Projeto
@@ -57,23 +57,23 @@ O projeto objetiva implementar uma solução de Business Intelligence para a an�
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1 | Alta | Como analista de dados, quero acessar bases públicas da PRF, DATASUS, DENATRAN e IBGE, para iniciar a integração das informações de segurança viária  |  3 horas  | 1  |
-| 2 | Alta | Como analista, quero importar e visualizar os dados no Python/Google Colab, para entender a estrutura das bases. |  5 horas  | 1      |
-| 3 | Alta | Como analista, quero realizar a limpeza, padronização e validação dos dados, a fim de garantir consistência, confiabilidade e qualidade nas análises. | 6 horas | 1  |
-|4  | Alta | Como analista, quero filtrar acidentes envolvendo veículos pesados, para focar a análise nesse tipo de sinistro.  |   7 horas    | 1   |
-| 5 | Alta | Como analista, quero organizar variáveis como estado, município, ano e tipo de veículo, para facilitar as análises posteriores     | 4 horas  | 1  |
-| 6 | Alta | Como gestor de transporte, quero visualizar a taxa de mortalidade por estado, para entender o impacto dos acidentes com veículos pesados. | 5 horas | 2|
-| 7 | Alta | Como analista, quero calcular a taxa de mortes por 100 mil habitantes, para permitir comparações entre estados. | 5 horas | 2 |
-| 8 | Alta | Como analista, quero calcular a taxa de sinistros por 10 mil veículos da frota, para medir o risco relativo da circulação | 4 horas | 2 |
-| 9 | Alta | Como pesquisador de segurança viária, quero analisar a evolução da mortalidade entre 2015 e 2025, para identificar tendências ao longo do tempo | 6 horas | 2 |
-| 10 | Média | Como gestor público, quero identificar os estados com maior taxa de letalidade, para apoiar decisões de políticas públicas. | 4 horas | 2 |
-| 11 | Média | Como analista, quero comparar os indicadores estaduais com a média nacional, para avaliar o desempenho de cada região. | 3 horas | 2 |
-| 12 | Alta | Como analista, quero desenvolver um dashboard interativo no Power BI, para visualizar os indicadores de segurança viária. | 6 horas |  3 |
-| 13 | Alta | Como usuário, quero visualizar indicadores de mortalidade, severidade e sinistros por estado, para entender o cenário nacional.| 4 horas | 3 | 
-| 14 | Alta | Como analista, quero integrar dados de frota, população e motocicletas ao dashboard, para enriquecer a análise. | 4 horas | 3 |
-| 15 | Alta | Como analista de segurança viária, quero criar um ranking de eficiência dos municípios com mais de 250 mil habitantes, para identificar os mais seguros | 6 horas| 3 |
-| 16 | Média | Como usuário, quero visualizar os municípios mais seguros e mais perigosos, para facilitar a interpretação do ranking. | 3 horas | 3 |
-| 17 | Média | Como equipe, queremos versionar os artefatos do projeto no GitHub, para garantir rastreabilidade do desenvolvimento. | 2 horas | 3 |
+| 1 | Alta | Como analista de dados, quero acessar bases públicas da PRF, DATASUS, DENATRAN e IBGE para iniciar a integração das informações de segurança viária,identificando e organizando dados sobre acidentes, frota de veículos e população, garantindo que estejam estruturados e prontos para uso nas próximas etapas  |  3 horas  | 1  |
+| 2 | Alta |Como analista, quero visualizar os dados no Python/Google Colab para entender sua estrutura, identificando colunas, tipos de dados e possíveis inconsistências, afim de obter uma visão inicial das bases. |  5 horas  | 1      |
+| 3 | Alta | Como analista, quero receber dados limpos e padronizados para garantir consistência e confiabilidade nas análises, com tratamento de valores nulos, remoçãode duplicidades e padronização das informações. | 6 horas | 1  |
+|4  | Alta | Como analista, quero acessar os dados de acidentes com veículos pesados para focar a análise nesse tipo de sinistro, permitindo identificar padrões ecaracterísticas específicas dessas ocorrências.  |   7 horas    | 1   |
+| 5 | Alta | Como analista, quero ter as variáveis organizadas (estado, município, ano e tipo de veículo) para facilitar análises e cruzamentos futuros, garantindo umaestrutura clara e padronizada dos dados. | 4 horas  | 1  |
+| 6 | Alta | Como gestor de transporte, quero visualizar a taxa de mortalidade por estado para entender o impacto dos acidentes com veículos pesados, permitindoidentificar regiões mais críticas. | 5 horas | 2|
+| 7 | Alta | Como cientista de dados, quero acessar os dados necessários para calcular a taxa de mortes por 100 mil habitantes, permitindo comparações mais justas entreestados com diferentes populações. | 5 horas | 2 |
+| 8 | Alta | Como analista de mobilidade, quero receber indicadores de sinistros por 10 mil veículos da frota para avaliar o risco relativo da circulação, considerando ovolume de veículos em cada região. | 4 horas | 2 |
+| 9 | Alta | Como pesquisador de segurança viária, quero acessar dados históricos de mortalidade entre 2015 e 2025 para analisar a evolução ao longo do tempo e identificartendências relevantes. | 6 horas | 2 |
+| 10 | Média | Como gestor público, quero visualizar os estados com maior taxa de letalidade para apoiar a priorização de ações e políticas públicas | 4 horas | 2 |
+| 11 | Média | Como analista estratégico, quero comparar os indicadores estaduais com a média nacional para avaliar o desempenho relativo de cada região. | 3 horas | 2 |
+| 12 | Alta | Como analista de dados, quero visualizar um dashboard interativo no Power BI para acompanhar os indicadores de segurança viária, facilitando a análise e atomada de decisão. | 6 horas |  3 |
+| 13 | Alta | Como gestor de transporte, quero visualizar indicadores de mortalidade, severidade e sinistros por estado para entender o cenário nacional e identificar regiõesmais críticas.| 4 horas | 3 | 
+| 14 | Alta | Como cientista de dados, quero acessar dados integrados de frota, população e motocicletas no dashboard para permitir análises mais completas e indicadoresmais precisos| 4 horas | 3 |
+| 15 | Alta | Como analista de segurança viária, quero visualizar um ranking de eficiência dos municípios com mais de 250 mil habitantes para identificar os mais seguros eapoiar análises comparativas. | 6 horas| 3 |
+| 16 | Média | Como gestor público, quero visualizar os municípios mais seguros e mais perigosos para facilitar a interpretação dos resultados e a priorização de ações. | 3 horas | 3 |
+| 17 | Média | Como equipe de desenvolvimento, queremos acessar e versionar os artefatos do projeto no GitHub para garantir organização, rastreabilidade e controle dasalterações. | 2 horas | 3 |
 
 <br>
 
