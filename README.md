@@ -78,7 +78,7 @@ O projeto objetiva implementar uma solução de Business Intelligence para a an�
 <br>
 
 ## APP de tarefas do grupo LOGISAFE:
-https://LogSafe.base44.app 
+https://LogSafe.base44.app
 
 <br>
 
