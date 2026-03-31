@@ -26,11 +26,11 @@ Descrição:
 ##  User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |   Responsavel   |
 |-----|-----------------------------------------------------------------------------|------------|------------|----------------|
-| S1 | Como analista de dados, quero acessar bases públicas da PRF, DATASUS, DENATRAN e IBGE, para iniciar a integração das informações de segurança viária. | Alta |  3 horas | Julio, Lucas, Kauã, Daniel
-| S2 | Como analista, quero importar e visualizar os dados no Python/Google Colab, para entender a estrutura das bases | Alta | 5 horas  | Lucas, Fabiano, Daniel
-| S3 | Como analista, quero realizar a limpeza, padronização e validação dos dados, a fim de garantir consistência, confiabilidade e qualidade nas análises. | Alta | 6 horas | Lucas, Fabiano, Daniel
-| S4 | Como analista, quero filtrar acidentes envolvendo veículos pesados, para focar a análise nesse tipo de sinistro | Alta | 7 horas | Lucas, Kauã, Daniel
-| S5 | Como analista, quero organizar variáveis como estado, município, ano e tipo de veículo, para facilitar as análises posteriores | Alta  | 4 horas | Julio, Fabiano
+| S1 | Como analista de dados, quero acessar bases públicas da PRF, DATASUS, DENATRAN e IBGE para iniciar a integração das informações de segurança viária, identificando e organizando dados sobre acidentes, frota de veículos e população, garantindo que estejam estruturados e prontos para uso nas próximas etapas | Alta |  3 horas | Julio, Lucas, Kauã, Daniel
+| S2 |Como analista, quero visualizar os dados no Python/Google Colab para entender sua estrutura, identificando colunas, tipos de dados e possíveis inconsistências, afim de obter uma visão inicial das bases. | Alta | 5 horas  | Lucas, Fabiano, Daniel
+| S3 |Como analista, quero receber dados limpos e padronizados para garantir consistência e confiabilidade nas análises, com tratamento de valores nulos, remoção de duplicidades e padronização das informações. | Alta | 6 horas | Lucas, Fabiano, Daniel
+| S4 | Como analista, quero acessar os dados de acidentes com veículos pesados para focar a análise nesse tipo de sinistro, permitindo identificar padrões e características específicas dessas ocorrências. | Alta | 7 horas | Lucas, Kauã, Daniel
+| S5 | Como analista, quero ter as variáveis organizadas (estado, município, ano e tipo de veículo) para facilitar análises e cruzamentos futuros, garantindo uma estrutura clara e padronizada dos dados. | Alta  | 4 horas | Julio, Fabiano
 
 <br>
 
