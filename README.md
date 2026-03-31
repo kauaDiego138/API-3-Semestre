@@ -30,8 +30,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 O projeto tem como objetivo a criação de um sistema utilizando diferentes fontes de dados decorrente dos anos de 2015 há 2025, criando um  Business Intelligence para a análise da segurança viária em todos os estados do Brasil.
 
 ## Equipe
-|    Função     | Nome                                |  GitHub        |   Linkedln   |                                                                                                                                 
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------: |
+|    Função     | Nome                                |  GitHub        |   Linkedln   |                                                                                                                                
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------: | 
 |  Product Owner|   Kauã Diego de Sousa Manoel | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KauaDiego138)  | [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-diego-manoel-b7069a34b)
 |  Scrum Master | Lucas Daniel da Silva Faria  | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasDaniel7777)    |  [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-daniel-0349b83bb)
 |  Team Member  | Daniel Junior Soares de Oliveira |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DanielJunior777) | [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-junior-9b49a3304/)
@@ -91,3 +91,6 @@ https://LogSafe.base44.app
 |        03         | 02/06/2026 | a fazer  | [MVP]([MVP/sp3.md](https://github.com/kauaDiego138/API-3-Semestre/blob/831ad93b6dca86770d0d1a86e07d03c13d5ce1a6/MVPS/mvp%203.md))  |
 | Feira de Soluções | 18/06/2026 | a fazer  | |
 
+<br>
+
+Canal da equipe : [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
