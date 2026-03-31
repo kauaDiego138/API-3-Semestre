@@ -59,21 +59,21 @@ O projeto objetiva implementar uma solução de Business Intelligence para a an�
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1 | Alta | Como analista de dados, quero acessar bases públicas da PRF, DATASUS, DENATRAN e IBGE para iniciar a integração das informações de segurança viária,identificando e organizando dados sobre acidentes, frota de veículos e população, garantindo que estejam estruturados e prontos para uso nas próximas etapas  |  3 horas  | 1  |
 | 2 | Alta |Como analista, quero visualizar os dados no Python/Google Colab para entender sua estrutura, identificando colunas, tipos de dados e possíveis inconsistências, afim de obter uma visão inicial das bases. |  5 horas  | 1      |
-| 3 | Alta | Como analista, quero receber dados limpos e padronizados para garantir consistência e confiabilidade nas análises, com tratamento de valores nulos, remoçãode duplicidades e padronização das informações. | 6 horas | 1  |
-|4  | Alta | Como analista, quero acessar os dados de acidentes com veículos pesados para focar a análise nesse tipo de sinistro, permitindo identificar padrões ecaracterísticas específicas dessas ocorrências.  |   7 horas    | 1   |
-| 5 | Alta | Como analista, quero ter as variáveis organizadas (estado, município, ano e tipo de veículo) para facilitar análises e cruzamentos futuros, garantindo umaestrutura clara e padronizada dos dados. | 4 horas  | 1  |
-| 6 | Alta | Como gestor de transporte, quero visualizar a taxa de mortalidade por estado para entender o impacto dos acidentes com veículos pesados, permitindoidentificar regiões mais críticas. | 5 horas | 2|
-| 7 | Alta | Como cientista de dados, quero acessar os dados necessários para calcular a taxa de mortes por 100 mil habitantes, permitindo comparações mais justas entreestados com diferentes populações. | 5 horas | 2 |
-| 8 | Alta | Como analista de mobilidade, quero receber indicadores de sinistros por 10 mil veículos da frota para avaliar o risco relativo da circulação, considerando ovolume de veículos em cada região. | 4 horas | 2 |
-| 9 | Alta | Como pesquisador de segurança viária, quero acessar dados históricos de mortalidade entre 2015 e 2025 para analisar a evolução ao longo do tempo e identificartendências relevantes. | 6 horas | 2 |
+| 3 | Alta | Como analista, quero receber dados limpos e padronizados para garantir consistência e confiabilidade nas análises, com tratamento de valores nulos, remoção de duplicidades e padronização das informações. | 6 horas | 1  |
+|4  | Alta | Como analista, quero acessar os dados de acidentes com veículos pesados para focar a análise nesse tipo de sinistro, permitindo identificar padrões e características específicas dessas ocorrências.  |   7 horas    | 1   |
+| 5 | Alta | Como analista, quero ter as variáveis organizadas (estado, município, ano e tipo de veículo) para facilitar análises e cruzamentos futuros, garantindo uma estrutura clara e padronizada dos dados. | 4 horas  | 1  |
+| 6 | Alta | Como gestor de transporte, quero visualizar a taxa de mortalidade por estado para entender o impacto dos acidentes com veículos pesados, permitindo identificar regiões mais críticas. | 5 horas | 2|
+| 7 | Alta | Como cientista de dados, quero acessar os dados necessários para calcular a taxa de mortes por 100 mil habitantes, permitindo comparações mais justas entre estados com diferentes populações. | 5 horas | 2 |
+| 8 | Alta | Como analista de mobilidade, quero receber indicadores de sinistros por 10 mil veículos da frota para avaliar o risco relativo da circulação, considerando o volume de veículos em cada região. | 4 horas | 2 |
+| 9 | Alta | Como pesquisador de segurança viária, quero acessar dados históricos de mortalidade entre 2015 e 2025 para analisar a evolução ao longo do tempo e identificar tendências relevantes. | 6 horas | 2 |
 | 10 | Média | Como gestor público, quero visualizar os estados com maior taxa de letalidade para apoiar a priorização de ações e políticas públicas | 4 horas | 2 |
 | 11 | Média | Como analista estratégico, quero comparar os indicadores estaduais com a média nacional para avaliar o desempenho relativo de cada região. | 3 horas | 2 |
-| 12 | Alta | Como analista de dados, quero visualizar um dashboard interativo no Power BI para acompanhar os indicadores de segurança viária, facilitando a análise e atomada de decisão. | 6 horas |  3 |
-| 13 | Alta | Como gestor de transporte, quero visualizar indicadores de mortalidade, severidade e sinistros por estado para entender o cenário nacional e identificar regiõesmais críticas.| 4 horas | 3 | 
-| 14 | Alta | Como cientista de dados, quero acessar dados integrados de frota, população e motocicletas no dashboard para permitir análises mais completas e indicadoresmais precisos| 4 horas | 3 |
-| 15 | Alta | Como analista de segurança viária, quero visualizar um ranking de eficiência dos municípios com mais de 250 mil habitantes para identificar os mais seguros eapoiar análises comparativas. | 6 horas| 3 |
+| 12 | Alta | Como analista de dados, quero visualizar um dashboard interativo no Power BI para acompanhar os indicadores de segurança viária, facilitando a análise e a tomada de decisão. | 6 horas |  3 |
+| 13 | Alta | Como gestor de transporte, quero visualizar indicadores de mortalidade, severidade e sinistros por estado para entender o cenário nacional e identificar regiões mais críticas.| 4 horas | 3 | 
+| 14 | Alta | Como cientista de dados, quero acessar dados integrados de frota, população e motocicletas no dashboard para permitir análises mais completas e indicadores mais precisos| 4 horas | 3 |
+| 15 | Alta | Como analista de segurança viária, quero visualizar um ranking de eficiência dos municípios com mais de 250 mil habitantes para identificar os mais seguros e apoiar análises comparativas. | 6 horas| 3 |
 | 16 | Média | Como gestor público, quero visualizar os municípios mais seguros e mais perigosos para facilitar a interpretação dos resultados e a priorização de ações. | 3 horas | 3 |
-| 17 | Média | Como equipe de desenvolvimento, queremos acessar e versionar os artefatos do projeto no GitHub para garantir organização, rastreabilidade e controle dasalterações. | 2 horas | 3 |
+| 17 | Média | Como equipe de desenvolvimento, queremos acessar e versionar os artefatos do projeto no GitHub para garantir organização, rastreabilidade e controle das alterações. | 2 horas | 3 |
 
 <br>
 
