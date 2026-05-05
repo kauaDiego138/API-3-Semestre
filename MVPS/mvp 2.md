@@ -1,4 +1,4 @@
-#  MVP - [logisafe]
+#  MVP - [LOGISAFE]
 
 ## Objetivo do MVP
 - O objetivo do MVP é disponibilizar um dashboard inicial que permita análises comparativas entre estados e indicadores de risco em todo o território nacional usando códigos de diferentes fontes para que o produto seja completo e de informações detalhadas.
@@ -22,16 +22,20 @@
 ##  User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-
+| US1 | Como gestor de transporte, quero visualizar a taxa de mortalidade por estado para entender o impacto dos acidentes com veículos pesados, permitindo identificar regiões mais críticas.       | Alta       | 5 horas   |
+| US2 | Como cientista de dados, quero acessar os dados necessários para calcular a taxa de mortes por 100 mil habitantes, permitindo comparações mais justas entre estados com diferentes populações.         | Alta     | 5 horas   |
+| US3 | Como analista de mobilidade, quero receber indicadores de sinistros por 10 mil veículos da frota para avaliar o risco relativo da circulação, considerando o volume de veículos em cada região. | Alta | 4 horas |
+| US4 | Como pesquisador de segurança viária, quero acessar dados históricos de mortalidade entre 2015 e 2025 para analisar a evolução ao longo do tempo e identificar tendências relevantes. | Alta | 6 horas |
+| US5 | Como gestor público, quero visualizar os estados com maior taxa de letalidade para apoiar a priorização de ações e políticas públicas. | média | 4 horas |
+| US6 | Como analista estratégico, quero comparar os indicadores estaduais com a média nacional para avaliar o desempenho relativo de cada região. | média | 3horas |
 ---
 
 ##  Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | SPRINT 1                       | Concluído|
+| 02     | SPRINT 2                       | Em andamento |
+| 03     | SPRINT 3                       | Há iniciar |
 
 ---
 
