@@ -14,8 +14,11 @@
 ---
 
 ##  Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- > Descrição: Profissionais responsáveis por interpretar os dados de acidentes por veiculos pesados em todo territorio brasileiro.
+Necessidades: códigos limpos e análisados de forma meticulosa, criação de um esboço do dashbord.
+Dores Atendidas: Dificuldade em consolidar informações dispersas, analisar grandes volumes de dados e identificar pontos de risco com clareza.
+
+Organizadores Logísticos
 
 ---
 
