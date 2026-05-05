@@ -66,6 +66,4 @@ A equipe tem um tempo de resposta de 3 dia para conseguir ajeitar tudo que o cli
 <br>
 
 ##  Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- - Link do canal no Youtube do grupo LOGISAFE com videos dos códigos e power BI usados no projeto atual: [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@api2025-o8h?si=B3FijJyEczivfGgX) 
