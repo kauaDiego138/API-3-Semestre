@@ -20,7 +20,7 @@ Dores Atendidas: Dificuldade em consolidar informações dispersas, analisar gra
 
 Organizadores Logísticos
 
----
+<br>
 
 ##  User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
@@ -30,7 +30,7 @@ Organizadores Logísticos
 | US3 | Como analista de mobilidade, quero receber indicadores de sinistros por 10 mil veículos da frota para avaliar o risco relativo da circulação, considerando o volume de veículos em cada região. | Alta | 4 horas |
 | US4 | Como pesquisador de segurança viária, quero acessar dados históricos de mortalidade entre 2015 e 2025 para analisar a evolução ao longo do tempo e identificar tendências relevantes. | Alta | 6 horas |
 | US5 | Como gestor público, quero visualizar os estados com maior taxa de letalidade para apoiar a priorização de ações e políticas públicas. | média | 4 horas |
-| US6 | Como analista estratégico, quero comparar os indicadores estaduais com a média nacional para avaliar o desempenho relativo de cada região. | média | 3horas |
+| US6 | Como analista estratégico, quero comparar os indicadores estaduais com a média nacional para avaliar o desempenho relativo de cada região. | média | 3 horas |
 ---
 
 ##  Sprint(s) Relacionadas
@@ -52,18 +52,18 @@ Produção funcional: o sistema deve entregar a função solicitada pelo cliente
 <br>
 
 ##  Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Todos os membros da equipe devem aceitar e aprovar o resultado final para cada sprint 
 
----
+A equipe tem um tempo de resposta de 3 dia para conseguir ajeitar tudo que o cliente pede, e produzir o que sua função pede no mesmo tempo de trabalho.
+
+<br>
 
 ##  Próximos Passos
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
 
----
+<br>
 
 ##  Anexos / Evidências
 - Prints de tela  
