@@ -43,11 +43,13 @@ Organizadores Logísticos
 ---
 
 ##  Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- Tempo de resposta da equipe: até 1 dia para atender às solicitações do cliente.
 
----
+Taxa de uso do sistema: acompanhamento da frequência de acessos e interações.
+
+Produção funcional: o sistema deve entregar a função solicitada pelo cliente dentro do mesmo período de trabalho.
+
+<br>
 
 ##  Métricas de Validação
 - Número de usuários que testaram o MVP  
