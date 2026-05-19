@@ -3,16 +3,15 @@
 
 ## Objetivo do MVP
 - O objetivo do MVP é disponibilizar um dashboard inicial que permita análises comparativas entre estados e indicadores de risco em todo o território nacional usando códigos de diferentes fontes para que o produto seja completo e de informações detalhadas.
+- criação e aperfeiçoamento do dashboard e implementação da linguagem em R no projeto.
 
----
+<br>
 
 ##  Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
 
----
+- Nessa etapa sera feita a aprimoração do dashboard colocando novas funções utilizando a linguagem em R, algo exigido pelo cliente.
+
+<br>
 
 ##  Personas / Usuários-Alvo
 - > Descrição: Profissionais responsáveis por interpretar os dados de acidentes por veiculos pesados em todo territorio brasileiro.
@@ -67,4 +66,4 @@ A equipe tem um tempo de resposta de 3 dia para conseguir ajeitar tudo que o cli
 <br>
 
 ##  Anexos / Evidências
-- - Link do canal no Youtube do grupo LOGISAFE com videos dos códigos e power BI usados no projeto atual: [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@api2025-o8h?si=B3FijJyEczivfGgX) 
+- - Link do canal no Youtube do grupo LOGISAFE com videos dos códigos e power BI usados no projeto atual:
