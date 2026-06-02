@@ -31,14 +31,19 @@ Organizadores Logísticos
 | US4 | Como pesquisador de segurança viária, quero acessar dados históricos de mortalidade entre 2015 e 2025 para analisar a evolução ao longo do tempo e identificar tendências relevantes. | Alta | 6 horas |
 | US5 | Como gestor público, quero visualizar os estados com maior taxa de letalidade para apoiar a priorização de ações e políticas públicas. | média | 4 horas |
 | US6 | Como analista estratégico, quero comparar os indicadores estaduais com a média nacional para avaliar o desempenho relativo de cada região. | média | 3 horas |
+| US7 | Como analista de dados, quero visualizar um dashboard interativo no Power BI para acompanhar os indicadores de segurança viária, facilitando a análise e a tomada de decisão | ALTA | 6 HORAS|
+| US8 | Como gestor de transporte, quero visualizar indicadores de mortalidade, severidade e sinistros por estado para entender o cenário nacional e identificar regiões mais críticas | ALTA | 4 HORAS |
+| US9 | Como cientista de dados, quero acessar dados integrados de frota, população e motocicletas no dashboard para permitir análises mais completas e indicadores mais precisos | ALTA | 4 HORAS|
+| US10 | Como gestor público, quero visualizar os municípios mais seguros e mais perigosos para facilitar a interpretação dos resultados e a priorização de ações. | ALTA | 4 HORAS |
+
 ---
 
 ##  Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | SPRINT 1                       | Concluído|
-| 02     | SPRINT 2                       | Em andamento |
-| 03     | SPRINT 3                       | Há iniciar |
+| 02     | SPRINT 2                       | CONCLUIDO |
+| 03     | SPRINT 3                       | EM ANDAMENTO |
 
 ---
 
