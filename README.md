@@ -89,6 +89,6 @@ https://log-safe-view.base44.app/
 |-------------------|------------|----------|-----------|
 |        01         | 14/04/2026 | Feito| [MVP](https://github.com/kauaDiego138/API-3-Semestre/blob/848039befbb5e511ef0f810240ca86ece5a88297/MVPS/mvp%201.md) |
 |        02         | 26/05/2026 | Feito| [MVP](https://github.com/kauaDiego138/API-3-Semestre/blob/6106687b145c8533e1e744d490b60016c3d870dd/MVPS/mvp%202.md)  |
-|        03         | 02/06/2026 | a iniciar| [MVP]([MVP/sp3.md]https://github.com/kauaDiego138/API-3-Semestre/blob/6a42e2185cec096f20504c05ec56e6d9510aaef8/MVPS/mvp%203.md)  |
+|        03         | 02/06/2026 | feito| [MVP](https://github.com/kauaDiego138/API-3-Semestre/blob/509e606ed0bf43470fb2b69234805b1ece3f5ac3/MVPS/mvp%203.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer| |
 
