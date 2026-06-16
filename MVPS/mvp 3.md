@@ -58,13 +58,10 @@ A equipe tem um tempo de resposta de 3 dia para conseguir ajeitar tudo que o cli
 <br>
 
 ##  Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+ - Após essa sprint não havera mais mudanças, tudo esta finalizado para a feira de soluções para apresentação do produto 
 
 <br>
 
 ##  Anexos / Evidências
-- Link do canal no Youtube do grupo LOGISAFE com videos dos códigos e power BI usados no projeto atual: https://youtube.com/@api2025-o8h?si=mnHSCaaKDgDOEnt_
- <br>
-link para site da apresentação:  https://log-safe-view.base44.app/
+- Link do canal no Youtube do grupo LOGISAFE com video final do projeto : https://youtu.be/QcPo-K3urJ8?si=GiYhUxjOg7TsPA4P
+
