@@ -64,4 +64,4 @@ A equipe tem um tempo de resposta de 3 dia para conseguir ajeitar tudo que o cli
 
 ##  Anexos / Evidências
 - Link do canal no Youtube do grupo LOGISAFE com video final do projeto : https://youtu.be/QcPo-K3urJ8?si=GiYhUxjOg7TsPA4P
-
+- link do app de gestão do grupo https://LogSafe.base44.app
